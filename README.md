@@ -6,7 +6,7 @@ I am a passionate boy on a thrilling journey of software development. With each 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [vibhuawasthi2009@gmail.com](mailto:vibhuawasthi2009@gmail.com)
 * 🧠  I'm learning a new coding language
-* 🤝  I'm open to collaborating on Any Projects That Can Enhance My Coding Skills
+* 🤝  I'm open to collaborating on Any Projects That Can Enhance My Coding Skills 
 * ⚡  Feel free to connect or drop a message—I'm all ears about anything!
 
 ### Skills
