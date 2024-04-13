@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ### **Vibhu Awasthi**
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is **Vibhu Awasthi**
 Evolving Visionary
 
 I am a passionate boy on a thrilling journey of software development. With each project, I strive to grow and refine my skills, embracing challenges as opportunities for advancement.
